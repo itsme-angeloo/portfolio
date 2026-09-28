@@ -11,17 +11,17 @@ type SocialItem = {
 const socialItems: SocialItem[] = [
   {
     label: "Facebook",
-    href: "#",
+    href: "https://web.facebook.com/gelobooo",
     Icon: FacebookIcon,
   },
   {
     label: "Instagram",
-    href: "#",
+    href: "https://www.instagram.com/geloo.iox/",
     Icon: InstagramIcon,
   },
   {
     label: "TikTok",
-    href: "#",
+    href: "https://www.tiktok.com/@geloboooooo",
     Icon: TikTokIcon,
   },
 ];
